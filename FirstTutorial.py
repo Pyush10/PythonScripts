@@ -3,6 +3,7 @@
 # ******************************************************************************
 
 # unit system adopted in this tutorial is SI (m, kg, s, N, Pa, etc.)
+
 from abaqus import *
 from abaqusConstants import *
 import regionToolset
