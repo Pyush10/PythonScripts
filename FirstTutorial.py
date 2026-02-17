@@ -2,6 +2,7 @@
 # Cantilever Beam bending under the action of a uniform pressure load
 # ******************************************************************************
 
+# unit system adopted in this tutorial is SI (m, kg, s, N, Pa, etc.)
 from abaqus import *
 from abaqusConstants import *
 import regionToolset
